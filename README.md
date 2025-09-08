@@ -23,7 +23,8 @@ The goal is to build a simple machine learning model that can predict **Californ
 1. Open the notebook in Google Colab or Jupyter Notebook.  
 2. Run the cells step by step to see the process and results.
  
-✨ This is **beginner practice** for understanding machine learning basics.
+This is **beginner practice** for understanding machine learning basics.
+
 
 
 
